@@ -1,0 +1,1092 @@
+[
+    {
+        "item": "Limited Time Cinnabon Dessert  Biscuits",
+        "price": 58.53,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast",
+        "price": 45.72,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick",
+        "price": 30.51,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh",
+        "price": 48.5,
+        "description": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing",
+        "price": 35.85,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Chicken Breast",
+        "price": 43.68,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Chicken Drumstick",
+        "price": 38.71,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Chicken Thigh",
+        "price": 42.78,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Chicken Whole Wing",
+        "price": 46.97,
+        "description": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "item": "Breast",
+        "price": 43.29,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "item": "Drumstick",
+        "price": 50.51,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Thigh",
+        "price": 46.14,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Whole Wing",
+        "price": 51.99,
+        "description": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Breast",
+        "price": 52.42,
+        "description": "Para os amantes de comida caseira."
+    },
+    {
+        "item": "Drumstick",
+        "price": 55.29,
+        "description": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "Thigh",
+        "price": 58.43,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Whole Wing",
+        "price": 37.92,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "EXTRA CRISPY  Chicken Breast",
+        "price": 46.29,
+        "description": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "EXTRA CRISPY  Chicken Drumstick",
+        "price": 34.12,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "EXTRA CRISPY  Chicken Thigh",
+        "price": 50.88,
+        "description": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "item": "EXTRA CRISPY  Chicken Whole Wing",
+        "price": 53.65,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "KENTUCKY GRILLED CHICKEN Breast",
+        "price": 49.71,
+        "description": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "item": "KENTUCKY GRILLED CHICKEN Drumstick",
+        "price": 52.09,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "KENTUCKY GRILLED CHICKEN Thigh",
+        "price": 43.95,
+        "description": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "item": "KENTUCKY GRILLED CHICKEN Whole Wing",
+        "price": 36.95,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "SPICY CRISPY CHICKEN Breast",
+        "price": 50.95,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "SPICY CRISPY CHICKEN Drumstick",
+        "price": 50.82,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "SPICY CRISPY CHICKEN Thigh",
+        "price": 40.51,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "SPICY CRISPY CHICKEN Whole Wing",
+        "price": 49.07,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "EXTRA CRISPY  Tender (each)",
+        "price": 31.68,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "EXTRA CRISPY  Tender (each)",
+        "price": 49.42,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "KENTUCKY FRIED WINGS Buffalo",
+        "price": 40.74,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "KENTUCKY FRIED WINGS Honey BBQ",
+        "price": 30.28,
+        "description": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "KENTUCKY FRIED WINGS Nashville Hot",
+        "price": 32.77,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "KENTUCKY FRIED WINGS Unsauced",
+        "price": 31.4,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "POPCORN NUGGETS Kids",
+        "price": 41.58,
+        "description": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "POPCORN NUGGETS Large",
+        "price": 44.06,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "BBQ Baked Beans",
+        "price": 48.78,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Biscuit",
+        "price": 54.09,
+        "description": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "item": "Coleslaw",
+        "price": 45.77,
+        "description": "Uma op\u00e7\u00e3o deliciosa e reconfortante."
+    },
+    {
+        "item": "Corn on the Cob",
+        "price": 54.74,
+        "description": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Green Beans",
+        "price": 38.9,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "KFC\u00ae Cornbread Muffin",
+        "price": 37.11,
+        "description": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "Macaroni & Cheese",
+        "price": 39.46,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Macaroni Salad",
+        "price": 30.15,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Mashed Potatoes",
+        "price": 30.39,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Mashed Potatoes With Gravy",
+        "price": 37.77,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Potato Salad",
+        "price": 41.29,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Secret Recipe Fries",
+        "price": 38.6,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Sweet Kernel Corn",
+        "price": 46.64,
+        "description": "Uma op\u00e7\u00e3o refrescante e saud\u00e1vel."
+    },
+    {
+        "item": "BBQ Baked Beans (Family)",
+        "price": 45.19,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Coleslaw (Family)",
+        "price": 49.56,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Corn on the Cob (Family)",
+        "price": 44.9,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Green Beans (Family)",
+        "price": 56.2,
+        "description": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "item": "Macaroni & Cheese (Family)",
+        "price": 51.14,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Macaroni Salad (Family)",
+        "price": 45.79,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Mashed Potatoes (Family)",
+        "price": 59.4,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Mashed Potatoes With Gravy (Family)",
+        "price": 39.03,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Potato Salad (Family)",
+        "price": 34.3,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Secret Recipe Fries (Family)",
+        "price": 32.13,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Sweet Kernel Corn (Family)",
+        "price": 34.37,
+        "description": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "item": "Chicken Littles",
+        "price": 43.2,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Chicken Littles \u2013 Buffalo",
+        "price": 59.43,
+        "description": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Chicken Littles \u2013 Honey BBQ",
+        "price": 31.72,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Chicken Littles \u2013 Nashville Hot",
+        "price": 34.45,
+        "description": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Classic Chicken Sandwich",
+        "price": 49.09,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Crispy Colonel\u2019s Sandwich",
+        "price": 32.79,
+        "description": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "item": "Crispy Colonel\u2019s Sandwich \u2013 Buffalo",
+        "price": 45.85,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Crispy Colonel\u2019s Sandwich \u2013 Honey BBQ",
+        "price": 32.74,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Crispy Colonel\u2019s Sandwich \u2013 Nashville Hot",
+        "price": 40.38,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Crispy Twister\u00ae",
+        "price": 43.07,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Honey BBQ Sandwich",
+        "price": 54.62,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Spicy Chicken Sandwich",
+        "price": 42.85,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Chicken Pot Pie",
+        "price": 30.13,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "KFC\u00ae Famous Bowl",
+        "price": 31.8,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "KFC\u00ae Famous Bowl \u2013 Snack Size",
+        "price": 32.2,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Caesar Side Salad",
+        "price": 50.15,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "House Side Salad",
+        "price": 51.9,
+        "description": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Heinz Buttermilk Dressing",
+        "price": 34.69,
+        "description": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "Hidden Valley The Original Ranch Fat Free Dressing",
+        "price": 33.09,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "KFC\u00ae Creamy Parmesan Caesar Dressing",
+        "price": 40.42,
+        "description": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "item": "Marzetti Light Italian Dressing",
+        "price": 43.55,
+        "description": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "Parmesan Garlic Croutons",
+        "price": 34.03,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Apple Turnover",
+        "price": 41.31,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Caf\u00e9 Valley Chocolate Chip Cake (1 Slice)",
+        "price": 56.12,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Caf\u00e9 Valley Lemon Cake (1 Slice)",
+        "price": 37.18,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Caf\u00e9 Valley Mini Chocolate Chip Cake",
+        "price": 57.98,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Caf\u00e9 Valley Mini Lemon Cake",
+        "price": 52.07,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Chocolate Chip Cookie",
+        "price": 37.44,
+        "description": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Oreo Cookies and Cr\u00e8me Pie",
+        "price": 35.97,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Reese\u2019s Peanut Butter Pie",
+        "price": 54.15,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "BBQ \u2013 Dipping Sauce Cup",
+        "price": 58.21,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Colonel\u2019s Buttery Spread",
+        "price": 49.06,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Grape Jelly Packet",
+        "price": 55.07,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Honey Mustard \u2013 Dipping Sauce Cup",
+        "price": 49.96,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Honey Sauce Packet",
+        "price": 37.21,
+        "description": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "item": "Ketchup",
+        "price": 38.16,
+        "description": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "KFC Sauce \u2013 Dipping Sauce Cup",
+        "price": 53.48,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Lemon Juice Packet",
+        "price": 37.37,
+        "description": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Ranch \u2013 Dipping Sauce Cup",
+        "price": 58.76,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Strawberry Jam Packet",
+        "price": 38.34,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Capri Sun\u00ae 100% Juice Fruit Punch",
+        "price": 47.45,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Chocolate Milk 1%",
+        "price": 40.86,
+        "description": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Milk 1%",
+        "price": 55.57,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Musselman\u2019s\u2122 Applesauce",
+        "price": 42.41,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "7UP\u00ae (12 fl oz)",
+        "price": 31.34,
+        "description": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "item": "7UP\u00ae (16 fl oz)",
+        "price": 49.14,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "7UP\u00ae (20 fl oz)",
+        "price": 56.44,
+        "description": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "7UP\u00ae (30 fl oz)",
+        "price": 52.93,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Classic Lemonade (1/2 Gallon)",
+        "price": 38.56,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Classic Lemonade (20 fl oz)",
+        "price": 41.98,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Code Red Mountain Dew\u00ae (12 fl oz)",
+        "price": 47.0,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Code Red Mountain Dew\u00ae (16 fl oz)",
+        "price": 30.53,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Code Red Mountain Dew\u00ae (20 fl oz)",
+        "price": 36.55,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Code Red Mountain Dew\u00ae (30 fl oz)",
+        "price": 58.61,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Diet Dr Pepper\u00ae (12 fl oz)",
+        "price": 41.32,
+        "description": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Diet Dr Pepper\u00ae (16 fl oz)",
+        "price": 56.88,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Diet Dr Pepper\u00ae (20 fl oz)",
+        "price": 32.09,
+        "description": "Sabores \u00fanicos que v\u00e3o surpreender voc\u00ea."
+    },
+    {
+        "item": "Diet Dr Pepper\u00ae (30 fl oz)",
+        "price": 54.92,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Diet Mist Twst\u00ae (12 fl oz)",
+        "price": 42.13,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Diet Mist Twst\u00ae (16 fl oz)",
+        "price": 55.36,
+        "description": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "item": "Diet Mist Twst\u00ae (20 fl oz)",
+        "price": 46.62,
+        "description": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Diet Mist Twst\u00ae (30 fl oz)",
+        "price": 47.31,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Diet Mountain Dew\u00ae (12 fl oz)",
+        "price": 50.44,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Diet Mountain Dew\u00ae (16 fl oz)",
+        "price": 55.78,
+        "description": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Diet Mountain Dew\u00ae (20 fl oz)",
+        "price": 45.07,
+        "description": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "item": "Diet Mountain Dew\u00ae (30 fl oz)",
+        "price": 42.75,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Diet Pepsi\u00ae (12 fl oz)",
+        "price": 49.72,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Diet Pepsi\u00ae (16 fl oz)",
+        "price": 40.25,
+        "description": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Diet Pepsi\u00ae (20 fl oz)",
+        "price": 39.9,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Diet Pepsi\u00ae (30 fl oz)",
+        "price": 39.11,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (12 fl oz)",
+        "price": 55.14,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (16 fl oz)",
+        "price": 42.0,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (20 fl oz)",
+        "price": 47.83,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (30 fl oz)",
+        "price": 39.57,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Dr Pepper\u00ae (12 fl oz)",
+        "price": 45.39,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Dr Pepper\u00ae (16 fl oz)",
+        "price": 35.43,
+        "description": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "item": "Dr Pepper\u00ae (20 fl oz)",
+        "price": 43.08,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Dr Pepper\u00ae (30 fl oz)",
+        "price": 58.88,
+        "description": "Uma combina\u00e7\u00e3o \u00fanica de sabores e texturas."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Lemon Tea (12 fl oz)",
+        "price": 36.79,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Lemon Tea (16 fl oz)",
+        "price": 53.33,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Lemon Tea (20 fl oz)",
+        "price": 51.8,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Lemon Tea (30 fl oz)",
+        "price": 36.49,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (12 fl oz)",
+        "price": 30.45,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (16 fl oz)",
+        "price": 45.73,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (20 fl oz)",
+        "price": 51.48,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (30 fl oz)",
+        "price": 39.05,
+        "description": "Para os amantes de comida caseira."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Raspberry Tea (12 fl oz)",
+        "price": 44.0,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Raspberry Tea (16 fl oz)",
+        "price": 58.02,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Raspberry Tea (20 fl oz)",
+        "price": 39.5,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Raspberry Tea (30 fl oz)",
+        "price": 52.96,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Sweet Iced Tea (12 fl oz)",
+        "price": 50.76,
+        "description": "Uma op\u00e7\u00e3o deliciosa e satisfat\u00f3ria."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Sweet Iced Tea (16 fl oz)",
+        "price": 44.46,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Sweet Iced Tea (20 fl oz)",
+        "price": 56.69,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Sweet Iced Tea (30 fl oz)",
+        "price": 56.34,
+        "description": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (12 fl oz)",
+        "price": 41.97,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (16 fl oz)",
+        "price": 51.41,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (20 fl oz)",
+        "price": 58.45,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (30 fl oz)",
+        "price": 40.29,
+        "description": "Sabores \u00fanicos que v\u00e3o surpreender voc\u00ea."
+    },
+    {
+        "item": "Manzanita Sol\u00ae (12 fl oz)",
+        "price": 30.53,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Manzanita Sol\u00ae (16 fl oz)",
+        "price": 58.35,
+        "description": "Sabores \u00fanicos que v\u00e3o surpreender voc\u00ea."
+    },
+    {
+        "item": "Manzanita Sol\u00ae (20 fl oz)",
+        "price": 34.15,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Manzanita Sol\u00ae (30 fl oz)",
+        "price": 36.64,
+        "description": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Miranda\u00ae Strawberry (12 fl oz)",
+        "price": 41.39,
+        "description": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "item": "Miranda\u00ae Strawberry (16 fl oz)",
+        "price": 47.36,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Miranda\u00ae Strawberry (20 fl oz)",
+        "price": 36.01,
+        "description": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Miranda\u00ae Strawberry (30 fl oz)",
+        "price": 37.72,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Mist Twst\u00ae (12 fl oz)",
+        "price": 55.94,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Mist Twst\u00ae (16 fl oz)",
+        "price": 45.3,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Mist Twst\u00ae (20 fl oz)",
+        "price": 43.49,
+        "description": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "item": "Mist Twst\u00ae (30 fl oz)",
+        "price": 33.23,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "MNT DEW Sweet Lightning (20 fl oz)",
+        "price": 42.94,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Mountain Dew\u00ae (12 fl oz)",
+        "price": 40.08,
+        "description": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Mountain Dew\u00ae (16 fl oz)",
+        "price": 47.98,
+        "description": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "item": "Mountain Dew\u00ae (20 fl oz)",
+        "price": 38.69,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Mountain Dew\u00ae (30 fl oz)",
+        "price": 38.0,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Mug Root Beer\u00ae (12 fl oz)",
+        "price": 44.74,
+        "description": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "Mug Root Beer\u00ae (16 fl oz)",
+        "price": 52.31,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Mug Root Beer\u00ae (20 fl oz)",
+        "price": 46.22,
+        "description": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "Mug Root Beer\u00ae (30 fl oz)",
+        "price": 55.19,
+        "description": "Uma op\u00e7\u00e3o deliciosa e satisfat\u00f3ria."
+    },
+    {
+        "item": "Pepsi Zero Sugar\u00ae (12 fl oz)",
+        "price": 34.82,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Pepsi Zero Sugar\u00ae (16 fl oz)",
+        "price": 39.96,
+        "description": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "Pepsi Zero Sugar\u00ae (20 fl oz)",
+        "price": 49.69,
+        "description": "Sabores \u00fanicos que v\u00e3o surpreender voc\u00ea."
+    },
+    {
+        "item": "Pepsi Zero Sugar\u00ae (30 fl oz)",
+        "price": 50.56,
+        "description": "Uma op\u00e7\u00e3o refrescante e saud\u00e1vel."
+    },
+    {
+        "item": "Pepsi\u00ae (12 fl oz)",
+        "price": 43.62,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Pepsi\u00ae (16 fl oz)",
+        "price": 33.0,
+        "description": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Pepsi\u00ae (20 fl oz)",
+        "price": 46.6,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Pepsi\u00ae (30 fl oz)",
+        "price": 30.72,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Sobe Lifewater Yumberry Pomegranate (12 fl oz)",
+        "price": 50.66,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Sobe Lifewater Yumberry Pomegranate (16 fl oz)",
+        "price": 52.58,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Sobe Lifewater Yumberry Pomegranate (20 fl oz)",
+        "price": 42.17,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Sobe Lifewater Yumberry Pomegranate (30 fl oz)",
+        "price": 59.01,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Strawberry Lemonade (1/2 Gallon)",
+        "price": 33.39,
+        "description": "A combina\u00e7\u00e3o perfeita de do\u00e7ura e frutas."
+    },
+    {
+        "item": "Strawberry Lemonade (20 fl oz)",
+        "price": 38.67,
+        "description": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Tropicana\u00ae Fruit Punch (12 fl oz)",
+        "price": 53.76,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Tropicana\u00ae Fruit Punch (16 fl oz)",
+        "price": 55.92,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Tropicana\u00ae Fruit Punch (20 fl oz)",
+        "price": 38.05,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Tropicana\u00ae Fruit Punch (30 fl oz)",
+        "price": 42.06,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Tropicana\u00ae Light Lemonade (12 fl oz)",
+        "price": 45.89,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Tropicana\u00ae Light Lemonade (16 fl oz)",
+        "price": 50.4,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Tropicana\u00ae Light Lemonade (20 fl oz)",
+        "price": 39.54,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Tropicana\u00ae Light Lemonade (30 fl oz)",
+        "price": 42.79,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Tropicana\u00ae Pink Lemonade (12 fl oz)",
+        "price": 35.87,
+        "description": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Tropicana\u00ae Pink Lemonade (16 fl oz)",
+        "price": 58.21,
+        "description": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "item": "Tropicana\u00ae Pink Lemonade (20 fl oz)",
+        "price": 30.33,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Tropicana\u00ae Pink Lemonade (30 fl oz)",
+        "price": 33.49,
+        "description": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Tropicana\u00ae Twister\u00ae Orange (12 fl oz)",
+        "price": 46.97,
+        "description": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Tropicana\u00ae Twister\u00ae Orange (16 fl oz)",
+        "price": 31.88,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Tropicana\u00ae Twister\u00ae Orange (20 fl oz)",
+        "price": 54.89,
+        "description": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Tropicana\u00ae Twister\u00ae Orange (30 fl oz)",
+        "price": 38.25,
+        "description": "Para os amantes de comida caseira."
+    },
+    {
+        "item": "Wild Cherry Pepsi\u00ae (12 fl oz)",
+        "price": 50.21,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Wild Cherry Pepsi\u00ae (16 fl oz)",
+        "price": 43.96,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Wild Cherry Pepsi\u00ae (20 fl oz)",
+        "price": 34.99,
+        "description": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Wild Cherry Pepsi\u00ae (30 fl oz)",
+        "price": 51.43,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "item": "Country Fried Steak without Peppered White Gravy",
+        "price": 33.89,
+        "description": "Para os amantes de comida caseira."
+    },
+    {
+        "item": "Country Fried Steak with Peppered White Gravy",
+        "price": 56.56,
+        "description": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "KFC\u00ae Gizzards",
+        "price": 35.86,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "KFC\u00ae Livers",
+        "price": 36.51,
+        "description": "Perfeito para quem gosta de sabores picantes."
+    }
+]
